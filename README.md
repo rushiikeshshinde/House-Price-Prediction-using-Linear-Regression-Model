@@ -12,3 +12,4 @@ Dataset contains 7 columns and 5000 rows with CSV extension. The data contains t
 - 'Price': Price that the house sold at.
 - 'Address': Address of the houses.
 
+To try this project :- https://colab.research.google.com/drive/1BNsnAMJnujZxinmbCEUriOO_-Mt3mFcB?usp=sharing
